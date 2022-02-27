@@ -1,0 +1,158 @@
+/* Make logo text colorful */
+@function textShadow($precision, $size, $color) {
+  $value: null;
+  $offset: 0;
+  $length: $size * (1 / $precision) - 1;
+
+  @for $i from 0 through $length {
+    $offset: $offset + $precision;
+    $shadow: $offset + px $offset + px $color;
+    $value: append($value, $shadow, comma);
+  }
+
+  @return $value;
+}
+
+#colorful-logo {
+  .playful span {
+    color: #5362f6;
+    text-shadow: textShadow(0.25, 6, #e485f8);
+  }
+
+  .playful span:nth-child(2n) {
+    color: #ed625c;
+    text-shadow: textShadow(0.25, 6, #f2a063);
+  }
+
+  .playful span:nth-child(3n) {
+    color: #ffd913;
+    text-shadow: textShadow(0.25, 6, #6ec0a9);
+  }
+
+  .playful span:nth-child(5n) {
+    color: #555bff;
+    text-shadow: textShadow(0.25, 6, #e485f8);
+  }
+
+  .playful span:nth-child(7n),
+  .playful span:nth-child(11n) {
+    color: #ff9c55;
+    text-shadow: textShadow(0.25, 6, #ff5555);
+  }
+
+  p {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Archivo Black', 'Archivo', sans-serif;
+    font-weight: normal;
+    display: block;
+    width: 666px;
+    max-width: 80vw;
+    min-height: 90px;
+    height: auto;
+    text-align: center;
+  }
+}
+
+/* Time-line marking on about me page */
+
+@mixin tablet-and-up {
+  @media screen and (min-width: 769px) {
+    @content;
+  }
+}
+@mixin mobile-and-up {
+  @media screen and (min-width: 601px) {
+    @content;
+  }
+}
+@mixin tablet-and-down {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+@mixin mobile-only {
+  @media screen and (max-width: 600px) {
+    @content;
+  }
+}
+
+.timeline {
+  .sessions ul,
+  li {
+    list-style: none;
+    padding: 0;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1rem;
+    /*background: linear-gradient(45deg, #209cff, #68e0cf);*/
+    padding: 3rem 0;
+  }
+  .wrapper {
+    background: #eaf6ff;
+    padding: 2rem;
+    border-radius: 15px;
+  }
+  .sessions {
+    margin-top: 2rem;
+    border-radius: 12px;
+    position: relative;
+  }
+  .sessions li {
+    padding-bottom: 1.5rem;
+    border-left: 1px solid #abaaed;
+    position: relative;
+    padding-left: 20px;
+    margin-left: 10px;
+    &:last-child {
+      border: 0px;
+      padding-bottom: 0;
+    }
+    &:before {
+      content: '';
+      width: 15px;
+      height: 15px;
+      background: white;
+      border: 1px solid #4e5ed3;
+      box-shadow: 3px 3px 0px #bab5f8;
+      box-shadow: 3px 3px 0px #bab5f8;
+      border-radius: 50%;
+      position: absolute;
+      left: -10px;
+      top: 0px;
+    }
+  }
+  .time {
+    color: #2a2839;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    @include mobile-and-up {
+      font-size: 0.9rem;
+    }
+    @include mobile-only {
+      margin-bottom: 0.3rem;
+      font-size: 0.85rem;
+    }
+  }
+  h1 {
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    color: #4f4f4f !important;
+  }
+  small {
+    color: #4f4f4f !important;
+  }
+  p {
+    color: #4f4f4f !important;
+    font-family: sans-serif;
+    line-height: 1.5;
+    margin-top: 0.4rem;
+    @include mobile-only {
+      font-size: 0.9rem;
+    }
+  }
+}

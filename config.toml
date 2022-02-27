@@ -1,0 +1,133 @@
+baseURL = "https://buraste.com/"
+buildDrafts = false
+buildExpired = false
+buildFuture = false
+enableRobotsTXT = true
+googleAnalytics = "UA-123-45"
+paginate = 10
+theme = "PaperMod"
+title = "buraste"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+DateFormat = "January 2, 2006"
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = true
+ShowReadingTime = true
+ShowShareButtons = true
+author = "Me"
+comments = false
+defaultTheme = "auto"
+description = "Personal Blog"
+disableScrollToTop = false
+disableSpecial1stPost = false
+disableThemeToggle = false
+env = "production"
+hideSummary = false
+hidemeta = false
+images = ["<link or path of image for opengraph, twitter-cards>"]
+keywords = ["Blog", "Portfolio", "PaperMod"]
+showtoc = true
+title = "buraste"
+tocopen = true
+
+[params.assets]
+apple_touch_icon = "/favicon/apple-touch-icon.png"
+favicon = "/favicon/favicon.ico"
+favicon16x16 = "/favicon/favicon-16x16.png"
+favicon32x32 = "/favicon/favicon-32x32.png"
+safari_pinned_tab = "/favicon/favicon.ico"
+
+[params.label]
+icon = "/img/logo/circle-cropped-removebg-preview.png"
+iconHeight = 85
+text = "buraste"
+
+[params.profileMode]
+enabled = false
+imageHeight = 120
+imageTitle = "my image"
+imageUrl = "<img location>"
+imageWidth = 120
+subtitle = "This is subtitle"
+title = "ExampleSite"
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "posts"
+
+[[params.profileMode.buttons]]
+name = "Tags"
+url = "tags"
+
+[params.homeInfoParams]
+Content = '''
+If you want to learn more, visit [about me](/about-me) page.
+'''
+Title = "Hi there 👋 It's blog about my life."
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/helloburaste"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/burippo/"
+
+[[params.socialIcons]]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/10890924/mehmet-burak-ibis"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/burakibis"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+[params.cover]
+hidden = true
+hiddenInList = true
+hiddenInSingle = false
+
+[params.editPost]
+#URL = "https://github.com/burakibis/buraste.com.git/content"
+#Text = "Suggest Changes"
+#appendFilePath = true
+
+[params.fuseOpts]
+distance = 1_000
+isCaseSensitive = false
+keys = ["title", "permalink", "summary", "content"]
+location = 0
+minMatchCharLength = 0
+shouldSort = true
+threshold = 0.4
+
+[[menu.main]]
+identifier = "about"
+name = "about me"
+url = "/about-me/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "photos"
+name = "photos"
+url = "https://www.instagram.com/burippo/"
+weight = 40
