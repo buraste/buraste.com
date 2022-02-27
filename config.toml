@@ -3,7 +3,7 @@ buildDrafts = false
 buildExpired = false
 buildFuture = false
 enableRobotsTXT = true
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-221511676-1"
 paginate = 10
 theme = "PaperMod"
 title = "buraste"
@@ -87,13 +87,13 @@ name = "github"
 url = "https://github.com/burakibis"
 
 [params.analytics.google]
-SiteVerificationTag = "XYZabc"
+SiteVerificationTag = "google-site-verification=aZ0qIoVPzaoZR5ea-XmhDk71jjIQqA-CdGxFLLWR-Yk"
 
 [params.analytics.bing]
 SiteVerificationTag = "XYZabc"
 
 [params.analytics.yandex]
-SiteVerificationTag = "XYZabc"
+SiteVerificationTag = "xyzabc"
 
 [params.cover]
 hidden = true
