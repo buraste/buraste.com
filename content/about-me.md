@@ -43,10 +43,46 @@ My manager at my old company (that is biggest company in Turkey) said If I leave
 Fuck all of CVs, biggest companies, idiot managers and their hierarchy! ⚔️
 Make your road.
 
-This is my personal blog where I talk about coding, entrepreneurship, life hacks, problems, answers, ideas. I am silent performer not an entrepreneur. 
+This is my personal blog where I talk about coding, entrepreneurship, life hacks, problems, answers, ideas. I am silent performer not an entrepreneur. I spent a long time without do anything, especially at university. Because I did not know about what I want, what I can. I tried a lot of things. Today I know that I want and I am walking on my way.
 
 I have a condition called [_Dissociative Amnesia_](https://en.wikipedia.org/wiki/Psychogenic_amnesia).
 That's why I write so that I don't forget.
-I gave up so much to learn, I don't have time to try again 🧠 
+I gave up so much to learn, I don't have time for trying again 🧠 
+
+Here is my learned favorite or not favorite, master or newbie skills:
+
+### Tech Skills
+#### Software
+
+-- Python: Django, Flask
+
+-- PHP: Laravel, CodeIgniter, WordPress (I love WordPress)
+
+-- JavaScript: NodeJS, ReactJS, GatsbyJS
+
+-- GO: Hugo (This blog made with Hugo 🎉)
+
+-- Ruby: Jekyll
+
+-- Linux: Ubuntu Server, Fedora
+
+#### Tools for Coding
+
+-- VSCode, Vim, oh my zsh
+
+### DevOps
+
+-- nginx, Apache2
+
+-- VMware
+
+-- Docker
+
+## Monitoring
+
+-- Zabbix
+
+..coming soon
+
 
 {{< timeline_clean >}}

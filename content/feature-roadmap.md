@@ -19,24 +19,25 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    hidden: true # only hide on current single page
 #editPost:
 #    URL: "https://github.com/burakibis/buraste.com.git/content"
 #    Text: "Suggest Changes" # edit text
 #    appendFilePath: true # to append file path to Edit link
 ---
 
-- [ ] Make logo text to colorful. I like color.
-- [ ] Fetch all Flickr photos to page.
+- [x] Make lazy-load to about me page.
+- [ ] Make logo text to colorful. I like color 🌈
+- [ ] Fetch all Flickr photos to Photos page.
 - [ ] Add multi-language support.
 - [ ] Force all external links to open on new window.
-- [ ] Make lazy-load to about me page
-- [ ] Learn more milestones from mother 👩‍👦
+- [ ] Add photos to milestones components on about me page.
+- [ ] Learn more milestones from family and add them to milestones 👩‍👦

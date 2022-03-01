@@ -96,7 +96,9 @@
 
 .timeline small {
   color: #4f4f4f !important; }
-
+  @media screen and (max-width: 600px) {
+    .timeline small {
+      font-size: 0.75rem; } }
 .timeline p {
   color: #4f4f4f !important;
   font-family: sans-serif;
