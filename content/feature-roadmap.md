@@ -35,9 +35,9 @@ cover:
 ---
 
 - [x] Make lazy-load to about me page.
+- [x] Add photos to milestones components on about me page.
 - [ ] Make logo text to colorful. I like color 🌈
 - [ ] Fetch all Flickr photos to Photos page.
 - [ ] Add multi-language support.
 - [ ] Force all external links to open on new window.
-- [ ] Add photos to milestones components on about me page.
-- [ ] Learn more milestones from family and add them to milestones 👩‍👦
+- [ ] Split huge milestone html's on about me page.

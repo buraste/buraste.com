@@ -57,19 +57,19 @@ subtitle = "This is subtitle"
 title = "ExampleSite"
 
 [[params.profileMode.buttons]]
-name = "Posts"
 url = "posts"
+name = "Posts"
 
 [[params.profileMode.buttons]]
-name = "Tags"
 url = "tags"
+name = "Tags"
 
 [params.homeInfoParams]
+Title = "Hi there 👋 It's blog about me."
 Content = '''
 My wife calls me Buraste 🦄
 If you want to learn more, visit [about me](/about-me) page.
 '''
-Title = "Hi there 👋 It's blog about me."
 
 [[params.socialIcons]]
 name = "twitter"
@@ -130,5 +130,5 @@ weight = 20
 [[menu.main]]
 identifier = "photos"
 name = "photos"
-url = "https://www.instagram.com/burippo/"
-weight = 40
+url = "https://www.flickr.com/photos/burakibis/"
+weight = 30

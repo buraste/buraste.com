@@ -34,7 +34,7 @@ cover:
 #    appendFilePath: true # to append file path to Edit link
 ---
 
-Hello It's me, Burak 👋
+Hello It's me, Burak 👋 The above is my favorite cartoon.
 
 For small part of my life, I lived what like they want. The day I realised this was not my life, I changed. Ever since I changed, they (still) said "It's not true". They told me that everything I owned, worked, earned, learned would go to waste, especially my CV 😂. It's really..
 
@@ -57,7 +57,7 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 -- Python: Django, Flask
 
--- PHP: Laravel, CodeIgniter, WordPress (I love WordPress)
+-- PHP: Laravel, CodeIgniter, WordPress (I love WordPress ❤️)
 
 -- JavaScript: NodeJS, ReactJS, GatsbyJS, NextJS
 
@@ -66,6 +66,8 @@ Here is my learned favorite or not favorite, master or newbie skills:
 -- Ruby: Jekyll
 
 -- Linux: Ubuntu Server, Fedora
+
+-- Database: MySQL, PostgreSQL, MongoDB, Redis
 
 #### Tools for Coding:
 
@@ -77,9 +79,11 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 -- Docker
 
+-- WordOps, EasyEngine
+
 #### Monitoring:
 
--- Zabbix
+-- Zabbix, Netdata
 
 #### Financial / Reporting / Analyzing
 
@@ -87,7 +91,7 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 -- SAP Business Object, SAP FI, SAP CR
 
--- MS NAV
+-- MS Dynamics NAV
 
 ### Design/Photography Skills
 
@@ -99,7 +103,7 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 #### Photography:
 
-I love analog photography 👰‍♀️ but for now I usually prefer digital photography based of product shoots. I prefer digital because analog photography is too much expensive, today. And in Turkey, I can't find fresh films and quality scan.
+I love analog photography 👰‍♀️ but for now I usually prefer digital photography based of product shoots. I prefer digital because analog photography is too much expensive, today. And in Turkey, I can't find fresh films and quality scan. I have Contax Aria, Smena 8M, Lubitel 2, Olympus Mju 2.
 
 You can find few analog photos by taken me on [my Flickr 📷](https://www.flickr.com/photos/burakibis/).
 
