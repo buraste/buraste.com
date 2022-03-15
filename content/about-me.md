@@ -36,7 +36,7 @@ cover:
 
 Hello It's me, Burak 👋
 
-For small part of my life, I lived what like they want. The day I realised this was not my life, I changed. Ever since I changed they (still) said "It's not true". They told me that everything I owned, worked, earned, learned would go to waste, especially my CV 😂. It's really.. 
+For small part of my life, I lived what like they want. The day I realised this was not my life, I changed. Ever since I changed they (still) said "It's not true". They told me that everything I owned, worked, earned, learned would go to waste, especially my CV 😂. It's really..
 
 My manager at my old company (that is biggest company in Turkey) said If I leave the job, I fail to keep up on business life and companies never hire me. After 1 years, I started my first company. Right now, I have own "companies" those have employees.
 
@@ -47,11 +47,12 @@ This is my personal blog where I talk about coding, entrepreneurship, life hacks
 
 I have a condition called [_Dissociative Amnesia_](https://en.wikipedia.org/wiki/Psychogenic_amnesia).
 That's why I write so that I don't forget.
-I gave up so much to learn, I don't have time for trying again 🧠 
+I gave up so much to learn, I don't have time for trying again 🧠
 
 Here is my learned favorite or not favorite, master or newbie skills:
 
 ### Tech Skills
+
 #### Software:
 
 -- Python: Django, Flask
@@ -80,13 +81,21 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 -- Zabbix
 
+#### Financial / Reporting / Analyzing
+
+-- MS Excel (my hero), MS Access, MS Power BI, MS Project, MS Visio, Visual Basic (my first software skill 🥲)
+
+-- SAP Business Object, SAP FI, SAP CR
+
+-- MS NAV
+
 ### Design/Photography Skills
 
 #### Design:
 
 -- Adobe: Photoshop, Lightroom (my besties)
 
--- CSS: Chakra UI, Tailwind
+-- CSS: Chakra UI, TailwindCSS
 
 #### Photography:
 
@@ -95,7 +104,5 @@ I love analog photography 👰‍♀️ but for now I usually prefer digital pho
 You can find few analog photos by taken me on [my Flickr 📷](https://www.flickr.com/photos/burakibis/).
 
 {{< flickr-a-photo >}}
-
-
 
 {{< timeline_clean >}}
