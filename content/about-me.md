@@ -52,13 +52,13 @@ I gave up so much to learn, I don't have time for trying again 🧠
 Here is my learned favorite or not favorite, master or newbie skills:
 
 ### Tech Skills
-#### Software
+#### Software:
 
 -- Python: Django, Flask
 
 -- PHP: Laravel, CodeIgniter, WordPress (I love WordPress)
 
--- JavaScript: NodeJS, ReactJS, GatsbyJS
+-- JavaScript: NodeJS, ReactJS, GatsbyJS, NextJS
 
 -- GO: Hugo (This blog made with Hugo 🎉)
 
@@ -66,23 +66,36 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 -- Linux: Ubuntu Server, Fedora
 
-#### Tools for Coding
+#### Tools for Coding:
 
 -- VSCode, Vim, oh my zsh
 
-### DevOps
+#### DevOps:
 
 -- nginx, Apache2
 
--- VMware
-
 -- Docker
 
-## Monitoring
+#### Monitoring:
 
 -- Zabbix
 
-..coming soon
+### Design/Photography Skills
+
+#### Design:
+
+-- Adobe: Photoshop, Lightroom (my besties)
+
+-- CSS: Chakra UI, Tailwind
+
+#### Photography:
+
+I love analog photography 👰‍♀️ but for now I usually prefer digital photography based of product shoots. I prefer digital because analog photography is too much expensive, today. And in Turkey, I can't find fresh films and quality scan.
+
+You can find few analog photos by taken me on [my Flickr 📷](https://www.flickr.com/photos/burakibis/).
+
+{{< flickr-a-photo >}}
+
 
 
 {{< timeline_clean >}}

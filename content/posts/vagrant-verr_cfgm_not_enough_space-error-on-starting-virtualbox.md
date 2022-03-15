@@ -78,5 +78,4 @@ I searched on Google and I learnt, after Virtualbox 5.8.2 virtual machine names 
 
 And write your console `vagrant up` again. It's up. Bye!
 
-_Cover photo:_ [_https://www.gerekliseyler.com.tr/urun/hark-a-vagrant_]
-(https://www.gerekliseyler.com.tr/urun/hark-a-vagrant)
+_Cover photo:_ [_https://www.gerekliseyler.com.tr/urun/hark-a-vagrant_](https://www.gerekliseyler.com.tr/urun/hark-a-vagrant)
