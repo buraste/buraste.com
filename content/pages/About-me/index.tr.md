@@ -1,33 +1,12 @@
 ---
-title: "About Me"
-date: 
-# weight: 1
-# aliases: ["/first"]
-tags: [""]
-categories: ["", ""]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-showToc: false
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
-description: ""
-#canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+title: "Hakkımda"
+date: 2020-10-23T14:15:00+03:30
+lastmod: 2021-04-19T20:00:00+03:30
 cover:
     image: "img/about-me/eac.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    relative: true # when using page bundles set this to true
 #editPost:
 #    URL: "https://github.com/burakibis/buraste.com.git/content"
 #    Text: "Suggest Changes" # edit text

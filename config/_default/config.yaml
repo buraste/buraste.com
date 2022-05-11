@@ -1,0 +1,45 @@
+baseURL: https://buraste.com/
+title: buraste blog
+
+defaultContentLanguageInSubdir: true
+defaultContentLanguage: en
+languageCode: en
+languageName: English
+
+theme: PaperMod
+
+paginate: 10
+
+googleAnalytics: UA-221511676-1
+
+enableRobotsTXT: true
+
+disqusShortname: buraste
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+
+permalinks:
+  posts: /posts/:year/:month/:slug/
+  pages: /:slug/
+
+taxonomies:
+  tags: tags
+
+params:
+  label:
+    icon: /img/logo/circle-cropped-removebg-preview.png
+    iconHeight: 85
+    text: buraste
+  assets:
+    apple_touch_icon: /favicon/apple-touch-icon.png
+    favicon: /favicon/favicon.ico
+    favicon16x16: /favicon/favicon-16x16.png
+    favicon32x32: /favicon/favicon-32x32.png
+    safari_pinned_tab: /favicon/favicon.ico

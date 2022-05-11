@@ -1,0 +1,32 @@
+env: production # to enable google analytics, opengraph, twitter-cards and schema.
+title: buraste
+description: Personal Blog
+author: me
+
+rssFullContent: true
+
+images:
+  - images/avatar.jpg
+
+ShowReadingTime: true
+ShowShareButtons: true
+comments: true
+defaultTheme: auto
+disableSpecial1stPost: true
+
+homeInfoParams:
+  Title: Hi there 👋 It's blog about me.
+  Content: '
+    My wife calls me Buraste 🦄 I run an online spiritual shop during the day. I write code at night and save the planet. 
+    Until the next super nova 🪐 you can all sleep soundly. If you want to know more, check out [about me](/about-me).
+    '
+
+socialIcons:
+  - name: twitter
+    url: 'https://twitter.com/helloburaste'
+  - name: instagram
+    url: 'https://www.instagram.com/burippo/'
+  - name: stackoverflow
+    url: 'https://stackoverflow.com/users/10890924/mehmet-burak-ibis'
+  - name: github
+    url: 'https://github.com/burakibis'

@@ -14,7 +14,7 @@ hidemeta: false
 comments: false
 description: "Today, code to your Arduino and (not) become real robotic programmer!"
 # canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+
 disableShare: false
 disableHLJS: false
 hideSummary: false
