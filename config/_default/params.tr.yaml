@@ -1,11 +1,8 @@
 title: buraste blog
 description: Kişisel Blog
-author: me
 homeInfoParams:
   Title: Merhaba 👋 yaşadıklarıma dair bazı şeyler yazıyorum.
-  Content: '
-    Gün boyu online bir [spiritüel dükkanı](https://hellominaste.com) yönetiyorum.
-    Geceleri kod yazarak dünyayı kurtarıyorum. Bir sonraki süper novaya kadar
-    yataklarınızda rahatça uyuyabilirsiniz 🪐 Benimle ilgili daha fazlası için 👉
-    [tıkla](/tr/hakkimda)
-    '
+  Content:
+    'Gün boyu online bir [spiritüel dükkanı](https://hellominaste.com) yönetiyorum.
+    Geceleri micro service için yeminler edip sabah vazgeçiyorum 🪐 Benimle ilgili daha fazlası için 👉
+    [tıkla](/tr/hakkimda)'

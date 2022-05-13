@@ -2,18 +2,15 @@
 title: "Hakkımda"
 date: 2020-10-23T14:15:00+03:30
 lastmod: 2021-04-19T20:00:00+03:30
+tags: [about-me]
 cover:
-    image: "img/about-me/eac.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: true # when using page bundles set this to true
-#editPost:
-#    URL: "https://github.com/burakibis/buraste.com.git/content"
-#    Text: "Suggest Changes" # edit text
-#    appendFilePath: true # to append file path to Edit link
+    image: "img/about-me/eac.png"
+    alt: "The Adventures of Tintin - Captain It's Wednesday"
+    relative: false
+    hidden: false
 ---
 
-Hello It's me, Burak 👋 The above is my favorite cartoon.
+Merhaba It's me, Burak 👋 The above is my favorite cartoon.
 
 For small part of my life, I lived what like they want. The day I realised this was not my life, I changed. Ever since I changed, they (still) said "It's not true". They told me that everything I owned, worked, earned, learned would go to waste, especially my CV 😂. It's really..
 
@@ -24,7 +21,7 @@ Make your road.
 
 This is my personal blog where I talk about coding, entrepreneurship, life hacks, problems, answers, ideas. I am -silent performer- (that's how i say it) not an entrepreneur. I spent a long time without do anything, especially at university. Because I did not know about what I want, what I can. Than, I tried a lot of things. Today I know that I want and I am walking on my way.
 
-I have a condition called [_Dissociative Amnesia_](https://en.wikipedia.org/wiki/Psychogenic_amnesia).
+I have a condition called [Dissociative Amnesia](https://en.wikipedia.org/wiki/Psychogenic_amnesia).
 That's why I write so that I don't forget.
 I gave up so much to learn, I don't have time for trying again 🧠
 

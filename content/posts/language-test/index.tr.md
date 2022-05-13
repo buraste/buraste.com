@@ -1,14 +1,14 @@
 ---
 title: Dil Testi
-slug: dil-testi
 date: 2020-11-02T20:40:00+03:30
 lastmod: 2020-11-02T20:40:00+03:30
+tags: ["test-dil", "deneme-dil"]
 cover:
-    image: "/img/fix-remote-branch-name/git.png" # image path/url
-    alt: "<alt text>" # alt text
+    image: "/img/fix-remote-branch-name/git.png"
+    alt: "<alt text>"
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    relative: false
+    hidden: false
 ---
 csdadsavc
 Selam!

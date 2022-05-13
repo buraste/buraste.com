@@ -1,21 +1,21 @@
 main:
   - weight: 1
-    identifier: posts
+    identifier: home
     name: Anasayfa
     url: /
   - weight: 2
     identifier: about
     name: Hakkımda
-    url: /hakkimda/
+    url: /hakkımda/
   - weight: 3
     identifier: photos
     name: Fotoğraflar
     url: https://www.flickr.com/photos/burakibis/
   - weight: 4
+    identifier: roadmap
+    name: Yol Haritası
+    url: /yol-haritası/
+  - weight: 5
     identifier: tags
     name: Etiketler
     url: /tags/
-  - weight: 5
-    identifier: roadmap
-    name: Yol Haritası
-    url: /yol-haritasi/

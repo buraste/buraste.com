@@ -23,11 +23,11 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/img/site-favicon-issue-on-google-search-result/google-logo.png" # image path/url
-    alt: "<alt text>" # alt text
+    image: "/img/site-favicon-issue-on-google-search-result/google-logo.png"
+    alt: "<alt text>"
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    relative: false
+    hidden: false
 ---
 
 Hello! Last day I faced the issue that really simple but annoying. I started developing new e-commerce website. When I search my website on Google Search, I couldn't see my favicon at the beginning of the site title like below:

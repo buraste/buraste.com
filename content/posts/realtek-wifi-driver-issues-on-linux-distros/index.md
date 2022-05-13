@@ -23,11 +23,11 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/img/realtek-wifi-driver-issues-on-linux-distros/linux-meme-full.png" # image path/url
-    alt: "<alt text>" # alt text
+    image: "/img/realtek-wifi-driver-issues-on-linux-distros/linux-meme-full.png"
+    alt: "<alt text>"
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    relative: false
+    hidden: false
 ---
 
 Hello there! When I was started my current job, they gave me HP Notebook (14-cf1015nt) for work pc. It has Realtek RTL8723DE wifi modem and has not any commercial wifi driver for Linux distros. So you should find 3rd party driver for wireless connection. It is terrible because you can't find ethernet cable at everywhere. Then we found solution for this issue. If you have one of aboves wifi modem models, you should read this tutorial.

@@ -12,10 +12,14 @@ main:
     name: Photos
     url: https://www.flickr.com/photos/burakibis/
   - weight: 4
-    identifier: tags
-    name: Tags
-    url: /tags/
+    identifier: wiki
+    name: Digital Garden
+    url: /digital-garden/
   - weight: 5
     identifier: roadmap
     name: Feature Roadmap
     url: /feature-roadmap/
+  - weight: 6
+    identifier: tags
+    name: Tags
+    url: /tags/

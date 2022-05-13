@@ -2,11 +2,12 @@
 title: "About Me"
 date: 2020-10-23T14:15:00+03:30
 lastmod: 2021-04-19T20:00:00+03:30
+tags: [about-me]
 cover:
-    image: "img/about-me/eac.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: true # when using page bundles set this to true
+    image: "img/about-me/eac.png"
+    alt: "The Adventures of Tintin - Captain It's Wednesday"
+    relative: false
+    hidden: false
 ---
 
 Hello It's me, Burak 👋 The above is my favorite cartoon.

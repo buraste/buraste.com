@@ -23,11 +23,11 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/img/mutualistic-relationship-juniper-trees-thrush-birds/el_hierro_sabinar.jpeg" # image path/url
-    alt: "<alt text>" # alt text
+    image: "/img/mutualistic-relationship-juniper-trees-thrush-birds/el_hierro_sabinar.jpeg"
+    alt: "<alt text>"
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    relative: false
+    hidden: false
 ---
 
 Today, my boss came to our room, "Have you heard of juniper trees?" he asked and started talking about them. I learned a lot of things about juniper trees and thrush birds.

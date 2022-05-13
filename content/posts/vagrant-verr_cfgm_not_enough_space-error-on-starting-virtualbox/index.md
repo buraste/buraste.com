@@ -23,11 +23,11 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/img/vagrant-verr_cfgm_not_enough_space-error-on-starting-virtualbox/vagrant-custom.png" # image path/url
-    alt: "<alt text>" # alt text
+    image: "/img/vagrant-verr_cfgm_not_enough_space-error-on-starting-virtualbox/vagrant-custom.png"
+    alt: "<alt text>"
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    relative: false
+    hidden: false
 ---
 
 Hello, newcomers to DevOps!
