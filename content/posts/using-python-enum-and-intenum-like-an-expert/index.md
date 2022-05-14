@@ -1,33 +1,11 @@
 ---
 title: "Using Python Enum and IntEnum Like An Expert"
 date: 2020-03-15T01:07:00.000Z
-# weight: 1
-# aliases: ["/first"]
 tags: ["how to make", "python", "enum", "models"]
-categories: ["coding"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-showToc: false
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
-description: ""
-#canonicalURL: "https://canonical.url/to/page"
-
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+showTOC: false
 cover:
-    image: "/img/using-python-enum-and-intenum-like-an-expert/coding-is-hard.png"
+    image: "coding-is-hard-cover.png"
     alt: "<alt text>"
-    caption: "<text>" # display caption under cover
-    relative: false
-    hidden: false
 ---
 
 Hello guys. If you use forms on your Django web applications and you want to clean model scheme, you should use enums!
@@ -155,3 +133,5 @@ def get_states(self):
 ```
 
 Congratz! It's Pythonic way.
+
+> _Cover: Google?_

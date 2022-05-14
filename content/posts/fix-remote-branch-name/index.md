@@ -1,13 +1,11 @@
 ---
-title: "How to fix pushed local and remote branch name easily on Git?"
+title: 'How to fix pushed local and remote branch name easily on Git?'
 date: 2020-01-24T09:56:00.000Z
-tags: ["git", "source", "version control system"]
+tags: ['git', 'source', 'version control system']
 cover:
-    image: "/img/fix-remote-branch-name/git.png"
-    alt: "<alt text>"
-    caption: "<text>" # display caption under cover
-    relative: false
-    hidden: false
+  image: 'git-cover.png'
+  alt: 'Git change pushed local and remote branch name'
+  relative: false
 ---
 
 You created branch and write some of codes, pushed to remote but suddenly you noticed that the branch name was incorrect! Ahh.. Don't worry, you can change easily your branch name:
@@ -84,6 +82,6 @@ nbr = new branch name
 | `git log --oneline`  | View changes (briefly)         |
 | `git diff [sb] [tb]` | Preview changes before merging |
 
-_[Sources:_ [_https://www.github.com/joshnh/Git-Commands/blob/master/README.md_](https://github.com/joshnh/Git-Commands/blob/master/README.md)_]_
+> _Sources: [\_https://www.github.com/joshnh/Git-Commands/blob/master/README.md_](https://github.com/joshnh/Git-Commands/blob/master/README.md)\_
 
-_[Cover image:_ [_https://svitla.com/blog/gitlab-vs-github_](https://svitla.com/blog/gitlab-vs-github)_]_
+> _Cover image: [\_https://svitla.com/blog/gitlab-vs-github_](https://svitla.com/blog/gitlab-vs-github)\_

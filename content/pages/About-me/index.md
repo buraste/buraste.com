@@ -1,13 +1,12 @@
 ---
-title: "About Me"
-date: 2020-10-23T14:15:00+03:30
-lastmod: 2021-04-19T20:00:00+03:30
+title: 'About Me'
 tags: [about-me]
+ShowReadingTime: false
+ShowBreadCrumbs: false
+author: ' '
 cover:
-    image: "img/about-me/eac.png"
-    alt: "The Adventures of Tintin - Captain It's Wednesday"
-    relative: false
-    hidden: false
+  image: 'img/eac-cover.png'
+  alt: "The Adventures of Tintin - Captain It's Wednesday"
 ---
 
 Hello It's me, Burak 👋 The above is my favorite cartoon.
@@ -25,11 +24,13 @@ I have a condition called [Dissociative Amnesia](https://en.wikipedia.org/wiki/P
 That's why I write so that I don't forget.
 I gave up so much to learn, I don't have time for trying again 🧠
 
-Here is my learned favorite or not favorite, master or newbie skills:
+Here is my learned favorite or not favorite, master or newbie skills.
 
-### Tech Skills
+## My Skills
 
-#### Software:
+### Tech Skills 🔧
+
+#### Software
 
 -- Python: Django, Flask
 
@@ -45,11 +46,11 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 -- Database: MySQL, PostgreSQL, MongoDB, Redis
 
-#### Tools for Coding:
+#### Tools for Coding
 
 -- VSCode, Vim, oh my zsh
 
-#### DevOps:
+#### DevOps
 
 -- nginx, Apache2
 
@@ -61,7 +62,7 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 -- WordOps, EasyEngine (not cool)
 
-#### Monitoring:
+#### Monitoring
 
 -- Zabbix
 
@@ -77,20 +78,39 @@ Here is my learned favorite or not favorite, master or newbie skills:
 
 -- MS Dynamics NAV
 
-### Design/Photography Skills
+### Design/Photography Skills 🎨
 
-#### Design:
+#### Design
 
 -- Adobe: Photoshop, Lightroom (my besties)
 
 -- CSS: Chakra UI, TailwindCSS
 
-#### Photography:
+#### Photography
 
 I love analog photography 👰‍♀️ but for now I usually prefer digital photography based of product shoots. I prefer digital because analog photography is too much expensive, today. And in Turkey, I can't find fresh films and quality scan. I have Contax Aria, Smena 8M, Lubitel 2, Olympus Mju 2.
 
 You can find few analog photos by taken me on [my Flickr 📷](https://www.flickr.com/photos/burakibis/).
 
 {{< flickr-a-photo >}}
+
+## My Office Setup
+
+### Computer
+
+- MacBook Pro (13-inch, M1, 2020) - 16/512GB
+
+### Screen
+
+- MSI 27" PRO MP271QP IPS QHD 60HZ
+
+### Components
+
+- Logitech MX Master 3 Mouse
+- Logitech MX Keys Keyboard
+- Belkin BoostCharge PRO 3in1 Apple Charge Station
+- Kingston Nucleum C-HUBC1-SR-EN USB Hub
+
+## Important Milestones On My Life 🚗
 
 {{< timeline_clean >}}

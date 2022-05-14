@@ -2,3 +2,7 @@
 .vscode/
 
 public/
+*.content
+resources/**
+resources/
+resources

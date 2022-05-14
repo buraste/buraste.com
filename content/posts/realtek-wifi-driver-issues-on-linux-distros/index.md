@@ -1,33 +1,11 @@
 ---
-title: "Realtek WIFI Driver Issues on Linux Distros"
+title: 'Realtek WIFI Driver Issues on Linux Distros'
 date: 2020-02-24T15:16:37.727Z
-# weight: 1
-# aliases: ["/first"]
-tags: ["how to make", "wifi", "driver", "linux", "realtek"]
-categories: ["heck"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: true
-draft: false
-hidemeta: false
-comments: false
-description: ""
-#canonicalURL: "https://canonical.url/to/page"
-
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+tags: ['how to make', 'wifi', 'driver', 'linux', 'realtek']
+showTOC: false
 cover:
-    image: "/img/realtek-wifi-driver-issues-on-linux-distros/linux-meme-full.png"
-    alt: "<alt text>"
-    caption: "<text>" # display caption under cover
-    relative: false
-    hidden: false
+  image: 'linux-meme-full-cover.png'
+  alt: 'linux why u no like it'
 ---
 
 Hello there! When I was started my current job, they gave me HP Notebook (14-cf1015nt) for work pc. It has Realtek RTL8723DE wifi modem and has not any commercial wifi driver for Linux distros. So you should find 3rd party driver for wireless connection. It is terrible because you can't find ethernet cable at everywhere. Then we found solution for this issue. If you have one of aboves wifi modem models, you should read this tutorial.

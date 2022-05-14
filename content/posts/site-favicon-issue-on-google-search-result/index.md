@@ -1,33 +1,10 @@
 ---
-title: "Site Favicon Issue on Google Search Result"
+title: 'Site Favicon Issue on Google Search Result'
 date: 2020-04-27T07:50:23.085Z
-# weight: 1
-# aliases: ["/first"]
-tags: ["how to make", "web", "seo", "google search"]
-categories: ["heck"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: true
-draft: false
-hidemeta: false
-comments: false
-description: ""
-#canonicalURL: "https://canonical.url/to/page"
-
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+tags: ['how to make', 'web', 'seo', 'google search']
 cover:
-    image: "/img/site-favicon-issue-on-google-search-result/google-logo.png"
-    alt: "<alt text>"
-    caption: "<text>" # display caption under cover
-    relative: false
-    hidden: false
+  image: 'google-logo-cover.jpg'
+  alt: 'google logo'
 ---
 
 Hello! Last day I faced the issue that really simple but annoying. I started developing new e-commerce website. When I search my website on Google Search, I couldn't see my favicon at the beginning of the site title like below:
@@ -53,3 +30,5 @@ You should change site name (www.example.com) with yours: <https://www.google.co
 You will see your site icon succesfully on this url if your site has favicon.
 
 BB!
+
+> _Cover: https://s3.amazonaws.com/images.seroundtable.com/google-favicon-1518093378.jpg_

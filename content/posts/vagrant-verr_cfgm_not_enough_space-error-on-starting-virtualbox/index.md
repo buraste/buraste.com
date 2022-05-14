@@ -1,33 +1,10 @@
 ---
 title: "Vagrant VERR_CFGM_NOT_ENOUGH_SPACE Error On Starting VirtualBox"
 date: 2020-03-27T20:30:41.127Z
-# weight: 1
-# aliases: ["/first"]
 tags: ["vagrant", "linux", "devops", "virtualbox", "error"]
-categories: ["heck"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: true
-draft: false
-hidemeta: false
-comments: false
-description: ""
-#canonicalURL: "https://canonical.url/to/page"
-
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
 cover:
-    image: "/img/vagrant-verr_cfgm_not_enough_space-error-on-starting-virtualbox/vagrant-custom.png"
-    alt: "<alt text>"
-    caption: "<text>" # display caption under cover
-    relative: false
-    hidden: false
+    image: "vagrant-custom-cover.png"
+    alt: "hark a vagrant cover"
 ---
 
 Hello, newcomers to DevOps!
@@ -78,4 +55,4 @@ I searched on Google and I learnt, after Virtualbox 5.8.2 virtual machine names 
 
 And write your console `vagrant up` again. It's up. Bye!
 
-_Cover photo:_ [_https://www.gerekliseyler.com.tr/urun/hark-a-vagrant_](https://www.gerekliseyler.com.tr/urun/hark-a-vagrant)
+> _Cover: [_https://www.gerekliseyler.com.tr/urun/hark-a-vagrant_](https://www.gerekliseyler.com.tr/urun/hark-a-vagrant)_
