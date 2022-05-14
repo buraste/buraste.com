@@ -1,0 +1,49 @@
+env: production # to enable google analytics, opengraph, twitter-cards and schema.
+description: Personal Blog
+author: me
+defaultTheme: auto
+rssFullContent: true
+images:
+  - images/avatar.jpg
+
+homeInfoParams:
+  Title: Hi there 👋 It's blog about me.
+  Content:
+    "My wife calls me Buraste 🦄 I run an online spiritual shop during the day.
+    I swear at night for microservice and give up in the morning 🪐 
+    Currently, I am creating own digital garden to remember what I've learned, saw, read, heard.
+    If you want to know more about me, check out 👉 [about me page](/about-me)."
+
+socialIcons:
+  - name: twitter
+    url: https://twitter.com/helloburaste
+  - name: instagram
+    url: https://www.instagram.com/burippo/
+  - name: stackoverflow
+    url: https://stackoverflow.com/users/10890924/mehmet-burak-ibis
+  - name: github
+    url: https://github.com/burakibis
+
+# Post-specific Params
+ShowReadingTime: true
+ShowShareButtons: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+comments: true
+disableSpecial1stPost: true
+showToc: true
+TocOpen: true
+
+assets:
+  apple_touch_icon: /favicon/apple-touch-icon.png
+  favicon: /favicon/favicon.ico
+  favicon16x16: /favicon/favicon-16x16.png
+  favicon32x32: /favicon/favicon-32x32.png
+  safari_pinned_tab: /favicon/favicon.ico
+
+customjs:
+  - 'js/custom.js'
+
+customCSS:
+  - 'css/logo.css'
+  - 'css/menu.css'

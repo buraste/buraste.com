@@ -1,0 +1,23 @@
+@media (max-width: 1120px) {
+  #menu a {
+    font-size: 14px;
+  }
+  .logo {
+    float: none;
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 25px;
+  }
+}
+
+@media (min-width: 1121px) {
+  .logo {
+    float: none;
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: 60px;
+  }
+}

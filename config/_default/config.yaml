@@ -1,0 +1,32 @@
+baseURL: https://buraste.com/
+title: buraste blog
+
+theme: PaperMod
+paginate: 10
+googleAnalytics: UA-221511676-1
+enableRobotsTXT: true
+disqusShortname: buraste-com
+
+defaultContentLanguageInSubdir: true
+defaultContentLanguage: en
+languageCode: en
+languageName: English
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+
+permalinks:
+  posts: /posts/:slug/
+  pages: /:slug/
+
+taxonomies:
+  tags: tags
+
+# href with target blank on MD files
+# {{< newtabref  href="" title="" >}}

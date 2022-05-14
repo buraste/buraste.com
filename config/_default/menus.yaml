@@ -1,0 +1,21 @@
+main:
+  - weight: 1
+    identifier: home
+    name: 🏠
+    url: /
+  - weight: 2
+    identifier: about
+    name: About Me
+    url: /about-me/
+  - weight: 3
+    identifier: photos
+    name: Photos
+    url: https://www.flickr.com/photos/burakibis/
+  - weight: 4
+    identifier: digital-garden
+    name: Digital Garden
+    url: /digital-garden/
+  - weight: 5
+    identifier: roadmap
+    name: Roadmap
+    url: /roadmap/
