@@ -4,7 +4,7 @@ date: 2020-03-15T01:07:00.000Z
 tags: ["how to make", "python", "enum", "models"]
 showTOC: false
 cover:
-    image: "coding-is-hard-cover.png"
+    image: "using-enum-pythonic-way-cover.jpg"
     alt: "<alt text>"
 ---
 

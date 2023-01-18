@@ -3,7 +3,7 @@ title: "Vagrant VERR_CFGM_NOT_ENOUGH_SPACE Error On Starting VirtualBox"
 date: 2020-03-27T20:30:41.127Z
 tags: ["vagrant", "linux", "devops", "virtualbox", "error"]
 cover:
-    image: "vagrant-custom-cover.png"
+    image: "vagrant-verr_cfgm_not_enough_space-error-on-starting-virtualbox-cover.jpg"
     alt: "hark a vagrant cover"
 ---
 

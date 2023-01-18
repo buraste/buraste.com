@@ -3,7 +3,7 @@ title: 'Site Favicon Issue on Google Search Result'
 date: 2020-04-27T07:50:23.085Z
 tags: ['how to make', 'web', 'seo', 'google search']
 cover:
-  image: 'google-logo-cover.jpg'
+  image: 'google-favicon-issue-cover.jpg'
   alt: 'google logo'
 ---
 

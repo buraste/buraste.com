@@ -3,22 +3,22 @@ title: 'About Me'
 tags: [about-me]
 ShowReadingTime: false
 ShowBreadCrumbs: false
+showToc: false
 author: ' '
 cover:
   image: 'img/eac-cover.png'
   alt: "The Adventures of Tintin - Captain It's Wednesday"
 ---
 
-Hello It's me, Burak 👋 The above is my favorite cartoon.
+Hello It’s me, Burak 👋 The above/on the side is my favorite cartoon.
 
-For small part of my life, I lived what like they want. The day I realised this was not my life, I changed. Ever since I changed, they (still) said "It's not true". They told me that everything I owned, worked, earned, learned would go to waste, especially my CV 😂. It's really..
+For small part of my life, I lived what like they want. The day I realised this was not my life, I changed. Ever since I changed, they (still) said “It’s not true”. They told me that everything I owned, worked, earned, learned would go to waste, especially my CV 😂. It’s really..
 
-My manager at my old company (that is biggest company in Turkey) said "If you leave the job, you fail to keep up on business life and companies never hire you". After 1 years, I started my own company. Right now, I have own "companies" those have employees.
+My manager at my old company (that is biggest company in Turkey) said “If you leave the job, you fail to keep up on business life and companies never hire you”. After 1 years, I started my own company. Right now, I have own “companies” those have employees.
 
-Fuck all of CVs, biggest companies, idiot managers and their hierarchy! ⚔️
-Make your road.
+Fuck all of CVs, biggest companies, idiot managers and their hierarchy! ⚔️ Make your road.
 
-This is my personal blog where I talk about coding, entrepreneurship, life hacks, problems, answers, ideas. I am -silent performer- (that's how i say it) not an entrepreneur. I spent a long time without do anything, especially at university. Because I did not know about what I want, what I can. Than, I tried a lot of things. Today I know that I want and I am walking on my way.
+This is my personal blog where I talk about coding, entrepreneurship, life hacks, problems, answers, ideas. I am -silent performer- (that’s how i say it) not an entrepreneur. I spent a long time without do anything, especially at university. Because I did not know about what I want, what I can. Than, I tried a lot of things. Today I know that I want and I am walking on my way.
 
 I have a condition called [Dissociative Amnesia](https://en.wikipedia.org/wiki/Psychogenic_amnesia).
 That's why I write so that I don't forget.
@@ -26,7 +26,7 @@ I gave up so much to learn, I don't have time for trying again 🧠
 
 Here is my learned favorite or not favorite, master or newbie skills.
 
-## My Skills
+## My Skills 🍳
 
 ### Tech Skills 🔧
 
@@ -94,7 +94,7 @@ You can find few analog photos by taken me on [my Flickr 📷](https://www.flick
 
 {{< flickr-a-photo >}}
 
-## My Office Setup
+## My Office Setup 💻
 
 ### Computer
 

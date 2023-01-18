@@ -8,11 +8,15 @@ images:
 
 homeInfoParams:
   Title: Hi there 👋 It's blog about me.
-  Content:
-    "My wife calls me Buraste 🦄 I run an online spiritual shop during the day.
-    I swear at night for microservice and give up in the morning 🪐
-    Currently, I am creating own digital garden to remember what I've learned, saw, read, heard.
-    If you want to know more about me, check out 👉 [about me page](/about-me)."
+  Content: "🦄 My wife calls me Buraste.\n\n
+    -\n\n
+    🔮 I run an online spiritual shop during the day.\n\n
+    -\n\n
+    💻 I swear at night for microservice and give up in the morning. \n\n
+    -\n\n
+    🪴 Currently, I am creating own [digital garden](https://garden.buraste.com) to remember what I've learned, saw, read, heard.\n\n
+    -\n\n
+    🤙 If you want to know more about me, 👉 check out [about me page](/about-me). \n\n"
 
 socialIcons:
   - name: twitter
@@ -22,7 +26,7 @@ socialIcons:
   - name: stackoverflow
     url: https://stackoverflow.com/users/10890924/mehmet-burak-ibis
   - name: github
-    url: https://github.com/burakibis
+    url: https://github.com/buraste
 
 # Post-specific Params
 ShowReadingTime: true
@@ -47,7 +51,6 @@ customjs:
 
 customCSS:
   - 'css/logo.css'
-  - 'css/menu.css'
 
 markup:
   goldmark:

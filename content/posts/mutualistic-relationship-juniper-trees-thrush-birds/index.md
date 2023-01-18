@@ -3,7 +3,7 @@ title: 'Mutualistic Relationship: Juniper Trees & Thrush Birds'
 date: 2020-01-23T20:47:15.483Z
 tags: ['bird', 'tree', 'nature']
 cover:
-  image: 'el_hierro_sabinar-cover.jpeg'
+  image: 'mutualistic-relationship-juniper-trees-thrush-birds-cover.jpg'
   alt: 'old juniper tree'
 ---
 

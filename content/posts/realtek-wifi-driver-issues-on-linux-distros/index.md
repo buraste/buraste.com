@@ -4,7 +4,7 @@ date: 2020-02-24T15:16:37.727Z
 tags: ['how to make', 'wifi', 'driver', 'linux', 'realtek']
 showTOC: false
 cover:
-  image: 'linux-meme-full-cover.png'
+  image: 'realtek-wifi-driver-issues-on-linux-distros-cover.jpg'
   alt: 'linux why u no like it'
 ---
 

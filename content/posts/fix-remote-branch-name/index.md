@@ -3,7 +3,7 @@ title: 'How to fix pushed local and remote branch name easily on Git?'
 date: 2020-01-24T09:56:00.000Z
 tags: ['git', 'source', 'version control system']
 cover:
-  image: 'git-cover.png'
+  image: 'fix-remote-branch-name-cover.jpg'
   alt: 'Git change pushed local and remote branch name'
   relative: false
 ---
