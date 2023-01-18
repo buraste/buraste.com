@@ -1,10 +1,11 @@
-baseURL: https://buraste.com/
 title: buraste blog
 
 theme: PaperMod
 paginate: 10
 googleAnalytics: UA-221511676-1
 enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
 disqusShortname: buraste-com
 
 defaultContentLanguageInSubdir: true
