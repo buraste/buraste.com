@@ -1,10 +1,10 @@
 env: production # to enable google analytics, opengraph, twitter-cards and schema.
-description: Personal Blog
+description: It’s blog about me. I run an online spiritual shop during the day. I swear at night for microservice and give up in the morning.
 author: me
 defaultTheme: auto
 rssFullContent: true
 images:
-  - images/avatar.jpg
+  - images/og-burastecom.jpg
 
 homeInfoParams:
   Title: Hi there 👋 It's blog about me.
